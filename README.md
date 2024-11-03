@@ -24,10 +24,8 @@
             under alternative divestiture packages, revealing an alternative package with fewer divested brands that could have improved consumer welfare. 
             These findings add a novel angle to the recent discussions about the fact that antitrust authorities may have been too lax in the past decades.
         </p> 
-    </ul>
     <p>Under construction, please visit my website <a href="https://sites.google.com/view/yanndelaprez/home?authuser=0" target="_blank">here</a>.</p>
-</body>
-</html>
+
 
 
 
