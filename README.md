@@ -7,7 +7,7 @@
     <h1> </h1>
     <ul>
         <li>
-            <a href="https://yanndelaprez.github.io/jmp_delaprez_eui.pdf" target="_blank">
+            <a href="https://yanndelaprez.github.io/JMP_november.pdf" target="_blank">
                 Unveiling Bargaining Impacts of Mergers and Divestitures (Job Market Paper, November 2024)
             </a>
         </li>
