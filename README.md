@@ -13,7 +13,7 @@
         </li>
         <section>
         <h2> </h2>
-        <p>
+        <p> 
             Merger and divestiture policies influence bargaining power in vertical relationships, a commonly underestimated factor. 
             I develop a Nash-bargaining model with endogenous bargaining weights. Next, I present a novel empirical framework to identify bounds 
             on the upstream bargaining weights between manufacturers and retailers at the brand level, solving bias due to endogenous selection of 
