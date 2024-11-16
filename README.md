@@ -26,7 +26,6 @@
             under alternative divestiture packages, revealing an alternative package with fewer divested brands that could have improved consumer welfare. 
             These findings add a novel angle to the recent discussions about the fact that antitrust authorities may have been too lax in the past decades.
         </p>
-        <p>Under construction, please visit my website <a href="https://sites.google.com/view/yanndelaprez/home?authuser=0" target="_blank">here</a>.</p>
     </section>
     <ul>
         <li>
@@ -43,6 +42,8 @@
             Additionally, we estimate a moderate increase in downstream markups. These results suggest that changes in bargaining power is a key factor in understanding the evolution of markups and help to explain the inconsistencies between prices, costs and markups previously documented in the economic literature.
         </p>
     </section>
+                    <p>Under construction, please visit my website <a href="https://sites.google.com/view/yanndelaprez/home?authuser=0" target="_blank">here</a>.</p>
+
 </body>
 </html>
 
