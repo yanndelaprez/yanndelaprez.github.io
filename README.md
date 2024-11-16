@@ -4,7 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1>Research Articles</h1>
+    <h1>Research</h1>
     <ul>
         <li>
             <a href="https://yanndelaprez.github.io/JMP_November.pdf" target="_blank">
