@@ -13,7 +13,6 @@
         </li>
     </ul>
     <section>
-        <h2>Abstract</h2>
         <p>
             Merger and divestiture policies influence bargaining power in vertical relationships, a commonly underestimated factor. 
             I develop a Nash-bargaining model with endogenous bargaining weights. Next, I present a novel empirical framework to identify bounds 
@@ -34,7 +33,6 @@
         </li>
     </ul>
     <section>
-        <h2>Abstract</h2>
         <p>
             This article examines the relationships between prices, markups, and costs in the US shampoo market from 2002 to 2012. 
             We find that real retail prices decreased during this period. This decline is not explained by a reduction in costs, but rather by an increase in retail bargaining power and a decrease in manufacturing markups. 
