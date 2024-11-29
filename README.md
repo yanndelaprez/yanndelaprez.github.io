@@ -19,17 +19,6 @@
     </section>
     <ul>
         <li>
-            <a href="https://yanndelaprez.github.io/Rise_BP_24.pdf" target="_blank">
-                On Bargaining Power and the Inconsistencies Between Prices, Costs and Markups
-            </a>
-        </li>
-    </ul>
-    <section>
-        <p>
-            This article examines the relationships between prices, markups, and costs in the US shampoo market from 2002 to 2012. 
-            We find that real retail prices decreased during this period. This decline is not explained by a reduction in costs, but rather by an increase in retail bargaining power and a decrease in manufacturing markups. 
-            Additionally, we estimate a moderate increase in downstream markups. These results suggest that changes in bargaining power is a key factor in understanding the evolution of markups and help to explain the inconsistencies between prices, costs and markups previously documented in the economic literature.
-        </p>
     </section>
                     <p>Under construction, please visit my website <a href="https://sites.google.com/view/yanndelaprez/home?authuser=0" target="_blank">here</a>.</p>
 
