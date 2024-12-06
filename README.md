@@ -7,7 +7,7 @@
     <h1>Research</h1>
     <ul>
         <li>
-            <a href="https://yanndelaprez.github.io/JMP_November.pdf" target="_blank">
+            <a href="https://yanndelaprez.github.io/JMP_december.pdf" target="_blank">
                 Unveiling Bargaining Impacts of Mergers and Divestitures
             </a>
         </li>
