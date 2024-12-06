@@ -8,7 +8,7 @@
     <ul>
         <li>
             <a href="https://yanndelaprez.github.io/JMP_december.pdf" target="_blank">
-                Unveiling Bargaining Impacts of Mergers and Divestitures
+                Unveiling Bargaining Impacts of Mergers and Divestitures 
             </a>
         </li>
     </ul>
