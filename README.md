@@ -21,7 +21,7 @@
         <li>
     </section>
                     <p>Under construction, please visit my website <a href="https://sites.google.com/view/yanndelaprez/home?authuser=0" target="_blank">here</a>.</p>
-
+</section>
 </body>
 </html>
 
