@@ -49,13 +49,7 @@ surplus more than a merger approved without divestiture.
     </a>
   </h2>
   <p>
-    This paper analyzes a merger of large manufacturers with divestiture in the French coffee
-    market. In contrast to previous approaches that study the effects of upstream divestitures
-    on prices and welfare, we model the vertical market structure. We show that the standard
-    policy recommendation to require divestiture to small recipient firms may not hold once
-    asymmetric bargaining power is considered. Prior models significantly over-estimate costs:
-    our estimates are 12 % lower and suggest that divestiture can even create marginal-cost
-    savings for the buyer of the divested brand.
+   This paper analyzes a merger of large manufacturers with divestiture in the French coffee market. In contrast to previous approaches used to study the effects of upstream divestitures on prices and welfare, we model the vertical market structure. First, our results show that the standard policy recommendation to require divestiture to small recipient firms may not hold when asymmetric bargaining power between firms is considered. Second, we show that previous models significantly overestimate costs. We estimate costs that are 12 percent lower, and find that divestiture can lead to marginal cost savings for the buyer of the divested brand.
   </p>
 </article>
 
