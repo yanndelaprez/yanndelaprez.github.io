@@ -3,7 +3,7 @@
 <!-- ─── Paper 1 ─── -->
 <article>
   <h2>
-    <a href="https://yanndelaprez.github.io/ssrn-4985124.pdf" target="_blank">
+    <a href="https://yanndelaprez.github.io/YD_jmp.pdf" target="_blank">
       Unveiling Bargaining Impacts of Mergers and Divestitures
     </a>
   </h2>
