@@ -25,7 +25,7 @@
 <!-- ─── Paper 2 ─── -->
 <article>
   <h2>
-    <a href="https://yanndelaprez.github.io/YD_Beer_2.pdf" target="_blank">
+    <a href="https://yanndelaprez.github.io/YD_Beer_3.pdf" target="_blank">
       Can Merger Remedies Cause More Harm than Good?
     </a>
   </h2>
