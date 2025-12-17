@@ -7,7 +7,7 @@
       Unveiling Bargaining Impacts of Mergers and Divestitures
     </a>
      <a href="https://yanndelaprez.github.io/YD_JMP_appendix_dec24" target="_blank">
-      Online Appendix
+       [Online Appendix]
     </a>
   </h2>
   <p>
