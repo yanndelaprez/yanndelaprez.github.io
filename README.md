@@ -6,6 +6,9 @@
     <a href="https://yanndelaprez.github.io/YD_JMP_dec25.pdf" target="_blank">
       Unveiling Bargaining Impacts of Mergers and Divestitures
     </a>
+     <a href="https://yanndelaprez.github.io/YD_JMP_appendix_dec24" target="_blank">
+      Online Appendix
+    </a>
   </h2>
   <p>
     I develop a Nash-bargaining model in which mergers and divestitures impact the bargaining weights. Next, I present a novel empirical framework to identify bounds on the upstream bargaining weights between manufacturers and retailers at the brand level and solve bias due to endogenous selection of divestiture packages. I analyze a landmark U.S. merger, approved conditional on divestiture, and its effect on bargaining power, final prices, and consumer surplus. Compared to a no-merger scenario, I estimate an increase in bargaining weights associated with divested brands and a decrease related to the brands of the merged entity. This shift contributes to an overall increase in the consumer surplus. In addition, I show that it is profitable for the merged firms to select a divestiture package so that the prices of the divested brands increase.
