@@ -6,7 +6,7 @@
     <a href="https://yanndelaprez.github.io/YD_JMP_dec25.pdf" target="_blank">
       Unveiling Bargaining Impacts of Mergers and Divestitures
     </a>
-     <a href="https://yanndelaprez.github.io/YD_JMP_appendix_dec24" target="_blank">
+     <a href="https://yanndelaprez.github.io/YD_JMP_appendix_dec24.pdf" target="_blank">
        [Online Appendix]
     </a>
   </h2>
