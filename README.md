@@ -38,7 +38,7 @@ surplus more than a merger approved without divestiture.
 <article>
   <h2>
     <a href="https://yanndelaprez.github.io/YDMG-coffee.pdf" target="_blank">
-      Merger Remedies and Bargaining Power in the Coffee Market
+      Merger Remedies and Bargaining Power in the Coffee Market (with M. Guignard)
     </a>
   </h2>
   <p>
