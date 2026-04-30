@@ -46,6 +46,18 @@ surplus more than a merger approved without divestiture.
   </p>
 </article>
 
+<!-- ─── Paper 4 ─── -->
+<article>
+  <h2>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6631180" target="_blank">
+      The Welfare Impact of Large Language Models (with A. Hortacsu) 
+    </a>
+  </h2>
+  <p>
+   What are the equilibrium and welfare effects of delegating decision-making to large language models (LLMs)? We study this question by comparing human and LLM-generated purchase choices around the introduction of menu labeling laws in a major restaurant market. We find that menu labeling had limited effects on calorie intake. By contrast, delegating purchase decisions to ChatGPT would reduce total calorie intake by up to 18%. Delegation also induces substantial exit of unsold product varieties and increases market concentration. We develop a structural model of delegation to quantify the underlying mechanisms and welfare effects. The net effect of delegation on total welfare is positive but has important distributional consequences: consumer surplus rises substantially for those who delegate to large language models, while the surplus of non-delegating consumers declines slightly due to equilibrium effects. Firm profits also increase.
+  </p>
+</article>
+
 <!-- ─── Note at the bottom ─── -->
 <p>
   Under construction; please visit my website
